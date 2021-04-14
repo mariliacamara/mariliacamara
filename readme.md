@@ -9,7 +9,7 @@
 
 :woman_student: I'm an Information Systems student <br />
 :selfie: Also a self-learn person <br />
-:fire: I’m currently learning all about Javascript <br />
+:fire: I’m currently learning all about Javascript and Vue.JS <br />
 :alarm_clock: Starting #100DaysOfCode challenge (July 28)<br />
 
 ### What I've learned so far... :star:
