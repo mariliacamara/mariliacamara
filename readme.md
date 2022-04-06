@@ -4,4 +4,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-mariliacamara.dev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariliacamara.dev@gmail.com)](mailto:mariliacamara.dev@gmail.com)
 
 
-🚀 I'm an application developer specializing in javascript technologies. Currently, graduating in Information Systems
+🚀 I'm an software application developer specializing in javascript technologies. Currently, graduating in Information Systems
+💻 reactjs, vuejs and more
