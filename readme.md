@@ -5,4 +5,5 @@
 
 
 🚀 I'm an software application developer specializing in javascript technologies. Currently, graduating in Information Systems
+
 💻 reactjs, vuejs and more
